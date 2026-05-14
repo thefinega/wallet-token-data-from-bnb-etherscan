@@ -1,4 +1,4 @@
-#author: @mlkplt
+#author: @thefinega
 
 from url import get_url
 from value import value
